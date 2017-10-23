@@ -1,0 +1,14 @@
+{
+    "name": "doctorbooooom/sms4b-bundle",
+    "type": "symfony-bundle",
+    "description": "A bundle for sms send through SMS4B (https://www.sms4b.ru/)",
+    "keywords": ["symfony", "sms"],
+    "homepage": "https://symfony.com", //ToDo
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Shubskiy",
+            "email": "artem-s86@yandex.ru"
+        }
+    ]
+}
